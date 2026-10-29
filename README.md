@@ -20,8 +20,13 @@
 ## Estrutura de arquivos
 
 oficina_mecanica/
+
 ├── main.py
+
 ├── veiculo.py
+
 ├── servico.py
+
 ├── ordem_servico.py
+
 └── README.md
